@@ -55,4 +55,4 @@ test:
 
 clean:
 	@$(MAKE) -sC test clean
-	@rm -rf $(PACKAGE) $(PKG_DIR) *~
+	@rm -rf $(PACKAGE) $(PKG_DIR) *.zip *~
