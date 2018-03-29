@@ -7,7 +7,7 @@ PKG_DIR=CCSI_$(PROD_SNAME)_$(VERSION)
 PACKAGE=$(PKG_DIR).zip
 
 PAYLOAD=docs/*.pdf \
-        ASUSpecFiles \
+	ASUSpecFiles \
 	DegeneracyExamples \
 	InitFiles \
 	ModelFiles \
