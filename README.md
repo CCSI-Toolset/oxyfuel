@@ -2,6 +2,10 @@
 **OxyCombustionMax** -
 A framework in GAMS for synthesis of coal oxycombustion power plants using advanced optimization algorithms. The 2013 release focuses on cryogenic ASU modeling and optimization.
 
+Note: This product is also part of the [Oxy-CombustionModels Bundle](../../../Oxy-CombustionModels_bundle)
+
+## Getting Started
+
 See installation and user guide documents in the [documentation](./docs) subdirectory.
 
 ## Authors
