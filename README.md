@@ -10,6 +10,7 @@ See installation and user guide documents in the [documentation](./docs) subdire
 
 ## Authors
 
+* [Alexander Dowling](mailto:adowling@nd.edu)
 * John Eason
 
 See also the list of [contributors](../../contributors) who participated in this project.
